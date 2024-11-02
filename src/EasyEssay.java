@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EasyEssay {
+public class EasyEssay { //allows you to see information about essay copy and pasted
 
     static void charCount(String msg){
         int count=0;
